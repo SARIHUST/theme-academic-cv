@@ -67,7 +67,7 @@ sections:
         - title: Assistant Algorithm Engineer
           company: iFlytek
           company_url: 'https://www.iflytek.com/'
-          company_logo: org-iflytek.png
+          company_logo: org-iflytek
           location: Hefei, Anhui, China
           date_start: '2023-05-01'
           date_end: '2023-07-31'
