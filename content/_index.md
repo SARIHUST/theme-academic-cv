@@ -66,7 +66,7 @@ sections:
               * Worked on a 3D Instance Segmentation project aiming to combine the strengths of Clustering- and Transformer-based methods.
               * Worked on modifying the indoor scene instance segmentation model to improve performance on outdoor scene datasets.
         - title: Research Assistant
-          company: Embedded and Pervasive Computing Lab, HUST
+          company: Embedded and Pervasive Computing Lab, Huazhong University of Science and Technology
           company_url: 'https://epic.hust.edu.cn/index.htm'
           company_logo: hust
           location: Wuhan, Hubei, China
