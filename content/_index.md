@@ -86,7 +86,7 @@ sections:
         featured_only: false
     design:
       columns: '1'
-      view: citation
+      view: card
 
   # - block: collection
   #   content:
