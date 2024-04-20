@@ -117,7 +117,7 @@ social:
 highlight_name: true
 ---
 
-I am a Master's in Computer Science student at [USC](https://www.usc.edu/), and I am expected to graduate in May 2025. Before coming to USC, I completed my undergraduate studies at [HUST](https://hust.edu.cn/) where I earned a BEng in Computer Science and Technology in June 2023.
+I am a Master's in Computer Science student at [USC](https://www.usc.edu/), and I am expected to graduate in May 2025. Before coming to USC, I completed my undergraduate studies at [HUST](https://hust.edu.cn/) where I was guided by [Prof. Xianzhi Li](https://nini-lxz.github.io/) and earned a BEng in Computer Science and Technology in June 2023.
 
 My research interest is mainly in computer vision, especially focusing on 3D computer vision. I am also exploring the posiblity in natural language processing.
 {style="text-align: justify;"}
