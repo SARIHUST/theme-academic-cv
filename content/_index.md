@@ -63,13 +63,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Assistant Algorithm Engineer
-          company: Research & Devleop Group (RDG), iFlytek
-          company_url: 'https://www.iflytek.com/'
-          company_logo: iflytek
-          location: Hefei, Anhui, China
-          date_start: '2023-05-01'
-          date_end: '2023-7-30'
+        # - title: Assistant Algorithm Engineer
+        #   company: Research & Devleop Group (RDG), iFlytek
+        #   company_url: 'https://www.iflytek.com/'
+        #   company_logo: iflytek
+        #   location: Hefei, Anhui, China
+        #   date_start: '2023-05-01'
+        #   date_end: '2023-7-30'
           
         - title: Research Assistant
           company: Embedded and Pervasive Computing Lab, HUST
@@ -226,26 +226,9 @@ sections:
   #     columns: '2'
   #     view: compact
 
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
-
-  - block: contact
-    id: contact
-    content:
-      # Contact (add or remove contact options as necessary)
-      email: hanhuiwa@usc.edu
-      phone: 323-447-9169
-      address:
-        street: 1388 W23rd Street
-        city: Los Angeles
-        region: CA
-        postcode: '90007'
-        country: United States
-        country_code: US
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
 ---
