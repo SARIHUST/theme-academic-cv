@@ -42,14 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
   - block: experience
     content:
       title: Experience
@@ -62,27 +62,25 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Assistant Algorithm Engineer
+          company: Research & Devleop Group (RDG), iFlytek
+          company_url: 'https://www.iflytek.com/'
+          company_logo: iflytek
+          location: Hefei, Anhui, China
+          date_start: '2023-05-01'
+          date_end: '2023-7-30'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              Responsibilities:
+              * Worked on a 3D Instance Segmentation project aiming to combine the strengths of Clustering- and Transformer-based methods. 
+              * Worked on modifying the indoor scene instance segmentation model to improve performance on outdoor scene datasets.
+        - title: Research Assistant
+          company: Embedded and Pervasive Computing Lab, HUST
+          company_url: 'https://epic.hust.edu.cn/index.htm'
+          company_logo: hust
+          location: Wuhan, Hubei, China
+          date_start: '2022-09-01'
+          date_end: '2023-03-31'
+          description: Worked on a Few-shot 3D Instance Segmentation project.
     design:
       columns: '2'
   - block: accomplishments
