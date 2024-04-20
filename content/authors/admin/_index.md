@@ -2,8 +2,8 @@
 # Display name
 title: Hanhui Wang 王翰辉
 
-Name pronunciation (optional)
-name_pronunciation: 
+# Name pronunciation (optional)
+# name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Hanhui
