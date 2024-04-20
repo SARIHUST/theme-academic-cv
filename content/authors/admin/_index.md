@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 王翰辉
+title: Hanhui Wang 王翰辉
 
-# Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+Name pronunciation (optional)
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Hanhui
@@ -21,8 +21,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Southern California
+    url: https://www.usc.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -30,21 +30,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision, 3D Vision
+  - Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2025 (expected)
+    - course: BEng in Computer Science and Technology
+      institution: Huazhong University of Science and Technology
+      year: 2023
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
