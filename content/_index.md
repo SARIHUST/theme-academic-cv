@@ -74,7 +74,7 @@ sections:
           date_end: '2023-03-31'
           description: Worked on a Few-shot Instance Segmentation project.
     design:
-      columns: '2'
+      columns: '1'
 
   # - block: experience
   #   content:
@@ -222,7 +222,7 @@ sections:
           - publication
         featured_only: false
     design:
-      columns: '2'
+      columns: '1'
       view: card
 
   # - block: collection
