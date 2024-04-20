@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master's in Computer Science Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -36,12 +36,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MS in Computer Science
+      institution: University of Southern California
       year: 2025 (expected)
     - course: BEng in Computer Science and Technology
       institution: Huazhong University of Science and Technology
       year: 2023
+
+friends:
+  - name: kkkk
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -117,5 +120,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Master's in Computer Science student at [USC](https://www.usc.edu/), and I am expected to graduate in May 2025. Before coming to USC, I completed my undergraduate studies at [HUST](https://hust.edu.cn/) where I earned a BEng in Computer Science and Technology in June 2023.
+
+My research interest is mainly in computer vision, especially focusing on 3D computer vision. I am also exploring the posiblity in natural language processing.
 {style="text-align: justify;"}
