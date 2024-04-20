@@ -50,39 +50,41 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Assistant Algorithm Engineer
-          company: Research & Devleop Group (RDG), iFlytek
-          company_url: 'https://www.iflytek.com/'
-          company_logo: iflytek
-          location: Hefei, Anhui, China
-          date_start: '2023-05-01'
-          date_end: '2023-7-30'
-          description: |2-
-              Responsibilities:
-              * Worked on a 3D Instance Segmentation project aiming to combine the strengths of Clustering- and Transformer-based methods. 
-              * Worked on modifying the indoor scene instance segmentation model to improve performance on outdoor scene datasets.
-        - title: Research Assistant
-          company: Embedded and Pervasive Computing Lab, HUST
-          company_url: 'https://epic.hust.edu.cn/index.htm'
-          company_logo: hust
-          location: Wuhan, Hubei, China
-          date_start: '2022-09-01'
-          date_end: '2023-03-31'
-          description: Worked on a Few-shot 3D Instance Segmentation project.
-    design:
-      columns: '2'
+
+  # - block: experience
+  #   content:
+  #     title: Experience
+  #     # Date format for experience
+  #     #   Refer to https://docs.hugoblox.com/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: Assistant Algorithm Engineer
+  #         company: Research & Devleop Group (RDG), iFlytek
+  #         company_url: 'https://www.iflytek.com/'
+  #         company_logo: iflytek
+  #         location: Hefei, Anhui, China
+  #         date_start: '2023-05-01'
+  #         date_end: '2023-7-30'
+  #         description: |2-
+  #             Responsibilities:
+  #             * Worked on a 3D Instance Segmentation project aiming to combine the strengths of Clustering- and Transformer-based methods. 
+  #             * Worked on modifying the indoor scene instance segmentation model to improve performance on outdoor scene datasets.
+  #       - title: Research Assistant
+  #         company: Embedded and Pervasive Computing Lab, HUST
+  #         company_url: 'https://epic.hust.edu.cn/index.htm'
+  #         company_logo: hust
+  #         location: Wuhan, Hubei, China
+  #         date_start: '2022-09-01'
+  #         date_end: '2023-03-31'
+  #         description: Worked on a Few-shot 3D Instance Segmentation project.
+  #   design:
+  #     columns: '2'
+
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.

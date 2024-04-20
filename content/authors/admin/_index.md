@@ -43,9 +43,6 @@ education:
       institution: Huazhong University of Science and Technology
       year: 2023
 
-friends:
-  - name: kkkk
-
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 # skills:
