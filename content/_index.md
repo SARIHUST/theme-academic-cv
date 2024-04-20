@@ -216,11 +216,11 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Publications & Preprints
       filters:
         folders:
           - publication
-        featured_only: true
+        featured_only: false
     design:
       columns: '2'
       view: card
