@@ -65,12 +65,12 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Assistant Algorithm Engineer
-          company: GenCoin
-          company_url: ''
+          company: iFlytek
+          company_url: 'https://www.iflytek.com/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: '2022-04-01'
+          location: Hefei, Anhui, China
+          date_start: '2023-05-01'
+          date_end: '2023-07-31'
           description: |2-
               Responsibilities include:
 
