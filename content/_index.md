@@ -77,7 +77,7 @@ sections:
       columns: '1'
 
   - block: collection
-    id: featured
+    id: publications
     content:
       title: Publications & Preprints
       filters:
