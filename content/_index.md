@@ -71,7 +71,10 @@ sections:
           location: Hefei, Anhui, China
           date_start: '2023-05-01'
           date_end: '2023-07-31'
-          description: ''
+          description: |2-
+              * Analysing
+              * Modelling
+              * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
