@@ -66,7 +66,7 @@ sections:
       items:
         - title: Assistant Algorithm Engineer
           company: Research & Devleop Group (RDG), iFlytek
-          company_url: 'https://www.iflytek.com/'
+          # company_url: 'https://www.iflytek.com/'
           # company_logo: iflytek
           location: Hefei, Anhui, China
           date_start: '2023-05-01'
@@ -77,7 +77,7 @@ sections:
           company_logo: org-gc
           location: California
           date_start: '2021-01-01'
-          date_end: ''
+          date_end: '2022-04-01'
           description: |2-
               Responsibilities include:
 
