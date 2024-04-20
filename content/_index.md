@@ -65,13 +65,6 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Assistant Algorithm Engineer
-          company: Research & Devleop Group (RDG), iFlytek
-          # company_url: 'https://www.iflytek.com/'
-          # company_logo: iflytek
-          location: Hefei, Anhui, China
-          date_start: '2023-05-01'
-          date_end: '2023-7-30'
-        - title: CEO
           company: GenCoin
           company_url: ''
           company_logo: org-gc
