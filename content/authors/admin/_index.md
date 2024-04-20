@@ -93,7 +93,7 @@ friends:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'hanhuiwa@usc.edu'
+    link: 'mailto:hanhuiwa@usc.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/HanhuiWang1108
