@@ -55,8 +55,8 @@ sections:
   - block: experience
     content:
       title: Experience
-      date_format: Jan 2006
-    design: columns: '2'
+
+    design: columns: '1'
 
   # - block: experience
   #   content:
