@@ -44,48 +44,55 @@ sections:
       username: admin
 
   - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
+  content:
+    title: Experience
+    # Date format for experience
+    #   Refer to https://docs.hugoblox.com/customization/#date-format
+    date_format: Jan 2006
+    # Experiences.
+    items:
       - title: Research Assistant
-          company: Visual Intelligence Lab, Northeastern University
-          company_url: 'https://jianghz.me/'
-          company_logo: neu
-          location: Remote
-          date_start: '2024-05-16'
-          date_end: 'present'
-          description: |3-
-              * Introduced SNAP, the first unified segmentation model capable of working across different point cloud domains including, part-level, indoor, and outdoor domains.
-              * Developed SNAP as a versatile model, supporting multiple prompt types, including points, bounding boxes, and text, to enable flexible object segmentation.
-              * Achieved state-of-the-art performance on multiple benchmark datasets and demonstrated SNAP’s utility as a semi-automated labeling tool for real-world applications.
-        - title: Assistant Algorithm Engineer
-          company: iFLYTEK
-          company_url: 'https://www.iflytek.com/'
-          company_logo: iflytek
-          location: Hefei, Anhui, China
-          date_start: '2023-05-01'
-          date_end: '2023-07-31'
-          description: |2-
-              * Worked on a 3D Instance Segmentation project aiming to combine the strengths of Clustering- and Transformer-based methods.
-              * Worked on modifying the indoor scene instance segmentation model to improve performance on outdoor scene datasets.
-        - title: Research Assistant
-          company: Embedded and Pervasive Computing Lab, Huazhong University of Science and Technology
-          company_url: 'https://epic.hust.edu.cn/index.htm'
-          company_logo: hust
-          location: Wuhan, Hubei, China
-          date_start: '2022-09-01'
-          date_end: '2023-03-31'
-          description: Worked on a Few-shot 3D Indoor Scene Instance Segmentation project.
-    design:
-      columns: '1'
+        company: Trustworthy, Autonomous, Human-Centered, and Embodied Intelligence Group, Texas A&M University
+        company_url: 'https://taco-group.github.io/'
+        company_logo: taco
+        location: Remote
+        date_start: '2024-06-16'
+        date_end: 'present'
+        description: |3-
+            * Presented a novel perspective for protecting personal images from malicious editing, focusing on making biometric features unrecognizable post-editing.
+            * Developed a new algorithm, **FaceLock**, that incorporates facial recognition models and feature embedding penalties to effectively protect against diffusion-based image editing.
+            * Conducted a crucial analysis of the quantitative evaluation metrics commonly used in image editing tasks, exposing their vulnerabilities and highlighting the potential for manipulation to achieve deceptive results.
+      - title: Research Assistant
+        company: Visual Intelligence Lab, Northeastern University
+        company_url: 'https://jianghz.me/'
+        company_logo: neu
+        location: Remote
+        date_start: '2024-05-16'
+        date_end: 'present'
+        description: |3-
+            * Introduced **SNAP**, the first unified segmentation model capable of working across different point cloud domains, including part-level, indoor, and outdoor domains.
+            * Developed SNAP as a versatile model, supporting multiple prompt types such as points, bounding boxes, and text, to enable flexible object segmentation.
+            * Achieved state-of-the-art performance on multiple benchmark datasets and demonstrated SNAP’s utility as a semi-automated labeling tool for real-world applications.
+      - title: Assistant Algorithm Engineer
+        company: iFLYTEK
+        company_url: 'https://www.iflytek.com/'
+        company_logo: iflytek
+        location: Hefei, Anhui, China
+        date_start: '2023-05-01'
+        date_end: '2023-07-31'
+        description: |2-
+            * Worked on a 3D Instance Segmentation project aiming to combine the strengths of clustering- and transformer-based methods.
+            * Modified the indoor scene instance segmentation model to improve performance on outdoor scene datasets.
+      - title: Research Assistant
+        company: Embedded and Pervasive Computing Lab, Huazhong University of Science and Technology
+        company_url: 'https://epic.hust.edu.cn/index.htm'
+        company_logo: hust
+        location: Wuhan, Hubei, China
+        date_start: '2022-09-01'
+        date_end: '2023-03-31'
+        description: Worked on a few-shot 3D indoor scene instance segmentation project.
+  design:
+    columns: '1'
 
   - block: collection
     id: publications
