@@ -55,8 +55,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+      - title: Research Assistant
+          company: Visual Intelligence Lab, Northeastern University
+          company_url: 'https://jianghz.me/'
+          company_logo: neu
+          location: Remote
+          date_start: '2024-05-16'
+          date_end: 'present'
+          description: |3-
+              * Introduced SNAP, the first unified segmentation model capable of working across different point cloud domains including, part-level, indoor, and outdoor domains.
+              * Developed SNAP as a versatile model, supporting multiple prompt types, including points, bounding boxes, and text, to enable flexible object segmentation.
+              * Achieved state-of-the-art performance on multiple benchmark datasets and demonstrated SNAP’s utility as a semi-automated labeling tool for real-world applications.
         - title: Assistant Algorithm Engineer
-          company: iFlytek
+          company: iFLYTEK
           company_url: 'https://www.iflytek.com/'
           company_logo: iflytek
           location: Hefei, Anhui, China
