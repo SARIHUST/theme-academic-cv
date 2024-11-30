@@ -66,17 +66,17 @@ sections:
         #       * Presented a novel perspective for protecting personal images from malicious editing, focusing on making biometric features unrecongnizable post editing.
         #       * Developed a new algorithm, **FaceLock**, that incorporates facial recognition models and feature embedding penalties to effectively protect against diffusion-based image editing.
         #       * Conducted a crucial analysis of the quantitative evaluation metrics commonly used in image editing tasks, exposing their vulnerabilities and highlighting the potential for manipulation to achieve deceptive results.
-        # - title: Research Assistant
-        #   company: Visual Intelligence Lab, Northeastern University
-        #   company_url: 'https://jianghz.me/'
-        #   company_logo: neu
-        #   location: Remote
-        #   date_start: '2024-05-16'
-        #   date_end: 'present'
-        #   description: |3-
-        #       * Introduced **SNAP**, the first unified segmentation model capable of working across different point cloud domains including, part-level, indoor, and outdoor domains.
-        #       * Developed SNAP as a versatile model, supporting multiple prompt types, including points, bounding boxes, and text, to enable flexible object segmentation.
-        #       * Achieved state-of-the-art performance on multiple benchmark datasets and demonstrated SNAP’s utility as a semi-automated labeling tool for real-world applications.
+        - title: Research Assistant
+          company: Visual Intelligence Lab, Northeastern University
+          company_url: 'https://jianghz.me/'
+          company_logo: neu
+          location: Remote
+          date_start: '2024-05-16'
+          date_end: ''
+          description: |3-
+              * Introduced **SNAP**, the first unified segmentation model capable of working across different point cloud domains including, part-level, indoor, and outdoor domains.
+              * Developed SNAP as a versatile model, supporting multiple prompt types, including points, bounding boxes, and text, to enable flexible object segmentation.
+              * Achieved state-of-the-art performance on multiple benchmark datasets and demonstrated SNAP’s utility as a semi-automated labeling tool for real-world applications.
         - title: Assistant Algorithm Engineer
           company: iFLYTEK
           company_url: 'https://www.iflytek.com/'
