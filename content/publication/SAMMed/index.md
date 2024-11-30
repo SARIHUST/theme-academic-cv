@@ -5,7 +5,7 @@ title: 'Leveraging SAM for Single-Source Domain Generalization in Medical Image 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - Hanhui Wang
   - Huaize Ye
   - Yi Xia
   - Xueyan Zhang
