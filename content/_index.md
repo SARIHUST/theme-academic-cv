@@ -55,17 +55,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        # - title: Research Assistant
-        #   company: Trustworthy, Autonomous, Human-Centered, and Embodied Intelligence Group, Texas A&M University
-        #   company_url: 'https://taco-group.github.io/'
-        #   company_logo: taco
-        #   location: Remote
-        #   date_start: '2024-06-16'
-        #   date_end: 'present'
-        #   description: |3-
-        #       * Presented a novel perspective for protecting personal images from malicious editing, focusing on making biometric features unrecongnizable post editing.
-        #       * Developed a new algorithm, **FaceLock**, that incorporates facial recognition models and feature embedding penalties to effectively protect against diffusion-based image editing.
-        #       * Conducted a crucial analysis of the quantitative evaluation metrics commonly used in image editing tasks, exposing their vulnerabilities and highlighting the potential for manipulation to achieve deceptive results.
+        - title: Research Assistant
+          company: Trustworthy, Autonomous, Human-Centered, and Embodied Intelligence Group, Texas A&M University
+          company_url: 'https://taco-group.github.io/'
+          company_logo: taco
+          location: Remote
+          date_start: '2024-06-16'
+          date_end: ''
+          description: |3-
+              * Presented a novel perspective for protecting personal images from malicious editing, focusing on making biometric features unrecongnizable post editing.
+              * Developed a new algorithm, **FaceLock**, that incorporates facial recognition models and feature embedding penalties to effectively protect against diffusion-based image editing.
+              * Conducted a crucial analysis of the quantitative evaluation metrics commonly used in image editing tasks, exposing their vulnerabilities and highlighting the potential for manipulation to achieve deceptive results.
         - title: Research Assistant
           company: Visual Intelligence Lab, Northeastern University
           company_url: 'https://jianghz.me/'
