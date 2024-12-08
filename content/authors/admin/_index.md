@@ -120,5 +120,6 @@ highlight_name: true
 
 I am a Master's in Computer Science student at [USC](https://www.usc.edu/), and I am expected to graduate in May 2025. Before coming to USC, I completed my undergraduate studies at [HUST](https://hust.edu.cn/) where I was guided by [Prof. Xianzhi Li](https://nini-lxz.github.io/) and earned a BEng in Computer Science and Technology in June 2023.
 
-My research experience is mainly in computer vision, especially focusing on 3D computer vision. I am also exploring the posiblity in natural language processing, and other machine learning fields.
+My research experience is mainly in computer vision and generative AI. I am fortunate to work with [Prof. Huaizu Jiang](https://jianghz.me/) from Northeastern University ([NEU](https://www.northeastern.edu/)), and with [Prof. Zhengzhong Tu](https://vztu.github.io/) from Texas A&M University ([TAMU](https://www.tamu.edu/)).
+
 {style="text-align: justify;"}
