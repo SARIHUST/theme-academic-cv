@@ -25,12 +25,13 @@ organizations:
     url: https://www.usc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computer Vision, 3D Vision
+  - 3D Computer Vision
+  - Generative AI
+  - Trust worthy AI
   - Machine Learning
 
 # Education to show in About widget
@@ -91,10 +92,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:hanhuiwa@usc.edu'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
-    link: https://twitter.com/HanhuiWang1108
-    label: Follow me on Twitter
+    link: https://x.com/hhwang1108
+    label: Follow me on X
     display:
       header: true
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
