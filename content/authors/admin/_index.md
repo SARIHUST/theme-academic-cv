@@ -91,7 +91,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hanhuiwa@usc.edu'
+    link: 'mailto:hanhuiwang1108@gmail.com'
   - icon: x-twitter
     icon_pack: fab
     link: https://x.com/hhwang1108
@@ -106,7 +106,7 @@ social:
     link: https://github.com/SARIHUST
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/hanhui-wang-195aa127a/
+    link: https://www.linkedin.com/in/hanhuiwang/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
